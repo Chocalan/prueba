@@ -1,0 +1,32 @@
+
+body {
+  font-family: 'Assistant', sans-serif;
+}
+.header
+  {
+    background-image: url(../img/bg-maik.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+    font-family: 'Archivo Black', sans-serif;
+    color: #ffffff
+
+  }
+
+h1 {
+  font-weight: bold;
+  font-size: 2em
+}
+.lista {
+  list-style:none
+}
+
+.texto-borde {
+  -webkit-text-stroke: 1px #24a2b6;
+  color: #ffffff;
+}
+
+.texto-aparte {
+  font-size: 1.5em
+}
